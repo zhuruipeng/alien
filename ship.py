@@ -6,6 +6,8 @@ class Ship():
         """初始化飞船并设置其初始位置"""
         self.screen=screen
         self.ai_settings =ai_settings
+        #w外星人设置
+
 
 
 
@@ -35,7 +37,7 @@ class Ship():
             #根据self.center 更新rect对象
         self.rect.centerx =self.center
 
-    def blitme(self):
 
+    def blitme(self):
         """在指定位置绘制飞船"""
         self.screen.blit(self.image, self.rect)
