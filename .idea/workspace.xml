@@ -4,14 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/game_functions.py" line="94" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e48860d-14d3-48e8-bf9e-04f351962a6b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
-    </list>
+    <list default="true" id="5e48860d-14d3-48e8-bf9e-04f351962a6b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +20,7 @@
       <file leaf-file-name="alien_invasion.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
+            <state relative-caret-position="428">
               <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -140,8 +133,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-35" />
-    <option name="y" value="82" />
+    <option name="x" value="120" />
+    <option name="y" value="89" />
     <option name="width" value="1507" />
     <option name="height" value="860" />
   </component>
@@ -228,7 +221,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-35" y="82" width="1507" height="860" extended-state="0" />
+    <frame x="120" y="89" width="1507" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -236,7 +229,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32756326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756326" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25016767" />
@@ -509,7 +502,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
+        <state relative-caret-position="428">
           <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
